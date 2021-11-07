@@ -12,4 +12,4 @@ Full Responsive.
 - JavaScript - ES6
 
 ### Website Demo:
-https://muhammadeiid.github.io/Udacity-Landing-Page/
+https://muhammadeiid.github.io/Landing-Template/
